@@ -42,6 +42,7 @@ In package.json
 #### migrate
 
 > npx prisma migrate dev
+
 > Enter the name as "init"
 
 #### view database
@@ -55,7 +56,11 @@ You can add users and reference jokes here ---> according to the app we are buil
 #### End points
 
 GET -> http://localhost:5656/ ===> All jokes
+
 POST -> http://localhost:5656/
+
 GET -> http://localhost:5656/joke_id
+
 PUT -> http://localhost:5656/joke_id
+
 DELETE -> http://localhost:5656/joke_id
