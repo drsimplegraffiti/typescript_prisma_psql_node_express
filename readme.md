@@ -9,7 +9,7 @@
 
 ### Check the typescript
 
-> which typescript
+> which tsc
 
 ---
 
